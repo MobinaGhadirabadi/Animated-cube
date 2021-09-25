@@ -1,0 +1,1 @@
+alert('Hello to my sample of animated cube');
